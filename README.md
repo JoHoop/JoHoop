@@ -2,8 +2,8 @@
 
 <br/>
 
-<a href="http://discordapp.com/channels/@me/427189211905654794/">
-  <img align="left" alt="Jo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://johoop.vercel.app/">
+  <img align="left" alt="Jo's Website" width="22px" src="https://johoop.vercel.app/jl.png" />
 </a>
 <a href="https://www.linkedin.com/in/jolienhoop/">
   <img align="left" alt="Jo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
