@@ -6,10 +6,10 @@
   <img align="left" alt="Jo's Website" width="22px" src="https://johoop.vercel.app/jl.png" />
 </a>
 <a href="https://www.linkedin.com/in/jolienhoop/">
-  <img align="left" alt="Jo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0e76a8;" />
+  <img align="left" alt="Jo's LinkdeIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://t.me/jolienhoop">
-  <img align="left" alt="Jo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Jo's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=JoHoop)
