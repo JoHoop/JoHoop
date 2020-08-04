@@ -1,4 +1,4 @@
-### Hey👋, I'm [Jo](https://johoop.vercel.app/)!
+# Hey👋, I'm [Jo](https://johoop.vercel.app/)!
 
 <br/>
 
