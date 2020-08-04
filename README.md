@@ -8,13 +8,3 @@
 <br />
 
 ![Jo's github stats](https://github-readme-stats.vercel.app/api?username=JoHoop&show_icons=true&hide=issues&hide_border=true)
-
-<br />
-
-```javascript
-// which came first: the chicken or the egg?
-
-console.log(["🥚", "🐣", "🐥", "🐔"].sort());
-
-// output: ["🐔", "🐣", "🐥", "🥚"]
-```
