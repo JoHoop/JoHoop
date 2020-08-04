@@ -6,7 +6,7 @@
   <img align="left" alt="Jo's Website" width="22px" src="https://johoop.vercel.app/jl.png" />
 </a>
 <a href="https://www.linkedin.com/in/jolienhoop/">
-  <img align="left" alt="Jo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="#0e76a8" />
+  <img align="left" alt="Jo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0e76a8;" />
 </a>
 <a href="https://t.me/jolienhoop">
   <img align="left" alt="Jo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
