@@ -11,6 +11,7 @@
 <a href="https://t.me/jolienhoop">
   <img align="left" alt="Jo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
 ![](https://komarev.com/ghpvc/?username=JoHoop)
 [![Website johoop.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johoop.vercel.app)
 
