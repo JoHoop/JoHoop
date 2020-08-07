@@ -9,4 +9,4 @@
 
 ![Jo's github stats](https://github-readme-stats.vercel.app/api?username=JoHoop&show_icons=true&hide=issues&hide_border=true)
 
-![Jo's github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHoop)
+![Jo's github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHoop&hide_border=true)
