@@ -1,8 +1,9 @@
-<h1 align="center">Hey👋, I'm [Jo](https://johoop.vercel.app/)</h1>
+# Hey👋, I'm [Jo](https://johoop.vercel.app/)!
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JoHoop" />
-</p>
+<br />
+
+![](https://komarev.com/ghpvc/?username=JoHoop)
+[![Website johoop.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johoop.vercel.app)
 
 <br />
 
