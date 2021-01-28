@@ -3,11 +3,6 @@
 <h4>
   <samp>
     a CS student
-  </samp>
-</h4>
-
-<h4>
-  <samp>
     from Germany
   </samp>
 </h4>
